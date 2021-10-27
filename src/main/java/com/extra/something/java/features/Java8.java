@@ -12,7 +12,7 @@ import java.util.stream.IntStream;
 
 public class Java8 {
 
-    public static void main(String[] args) {
+    public static void mainJava8(String[] args) {
 
         //1. Interface Default and Static Methods
         System.out.println(java8Interface.StaticMethod());

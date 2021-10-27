@@ -24,7 +24,7 @@ public class Java11 {
             }
             """).toString();
 
-    public static void main(String[] args) throws IOException, InterruptedException {
+    public static void mainJava11(String[] args) throws IOException, InterruptedException {
 
 
         // 1. String has more functionality than before: isBlank, lines, strip, stripLeading, stripTrailing, and repeatExample.
